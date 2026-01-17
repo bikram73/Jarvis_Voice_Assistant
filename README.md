@@ -193,4 +193,16 @@ Feel free to contribute by:
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Built with Python and various open-source libraries
+- Uses Google Translate API for translation features
+- Powered by speech recognition and text-to-speech technologies
+- Screen recording capabilities using OpenCV
+- YouTube downloading via yt-dlp
+
+## Disclaimer
+
+This software is provided "as is" without warranty. Users are responsible for complying with applicable laws and terms of service when using download and translation features.
