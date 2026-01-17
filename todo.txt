@@ -1,0 +1,3 @@
+go to gym
+go to shopping
+Test task from functionality test
