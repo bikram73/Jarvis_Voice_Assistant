@@ -1,0 +1,32 @@
+[
+  {
+    "word": "hello",
+    "translation": "hola",
+    "language": "spanish",
+    "date_learned": "2026-01-19"
+  },
+  {
+    "word": "goodbye",
+    "translation": "adi\u00f3s",
+    "language": "spanish",
+    "date_learned": "2026-01-19"
+  },
+  {
+    "word": "thank you",
+    "translation": "merci",
+    "language": "french",
+    "date_learned": "2026-01-19"
+  },
+  {
+    "word": "my name is vikram",
+    "translation": "\u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u0432\u0438\u043a\u0440\u0430\u043c",
+    "language": "russian",
+    "date_learned": "2026-01-19"
+  },
+  {
+    "word": "slate  my name is vikram",
+    "translation": "pizarra mi nombre es vikram",
+    "language": "spanish",
+    "date_learned": "2026-01-19"
+  }
+]

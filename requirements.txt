@@ -19,3 +19,14 @@ soundfile==0.12.1
 yt-dlp==2023.12.30
 googletrans==4.0.0rc1
 Pillow==10.0.0
+
+# Additional features dependencies
+PyPDF2==3.0.1
+PyMuPDF==1.23.14
+nltk==3.8.1
+textstat==0.7.3
+psutil==5.9.6
+pycaw==20230407
+screen-brightness-control==0.21.1
+winshell==0.6  # Windows only - for recycle bin
+wmi==1.5.1  # Windows only - for brightness control
