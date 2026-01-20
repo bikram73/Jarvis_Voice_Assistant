@@ -1,4 +1,4 @@
-# 🤖 Jarvis Voice Assistant - Complete Edition
+# 🤖 Jarvis Voice Assistant
 
 A comprehensive Python-based voice assistant with **79 working voice commands** across 12 feature categories. Jarvis can perform advanced tasks through natural voice interaction with full system integration.
 
